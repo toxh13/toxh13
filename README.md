@@ -10,7 +10,7 @@
 | 프로젝트 | 내용 | 역할 |
 |---|---|---|
 | [IT-Tech Trend Analyzer](https://github.com/toxh13/trend-analyzer-portfolio) · 운영했던 서비스(현재 중지) | 네이버·다음·Google News 3개 채널 수집 → 검증·중복 제거 → 24시간 트렌드 집계 → Oracle·API·OCI 배포 | 개인 (전 과정) |
-| [따라가요 (DDARUNG FLOW)](https://github.com/dataAnalyzeProject/ddarung-flow) | 따릉이·날씨 API를 Airflow Raw → Quality → Curated로 처리해 도착 시점 대여 가능성 예측 서비스에 전달 | 5인 팀 조장 · 데이터 파이프라인 · 통합 · DevOps |
+| [따라가요 (DDARUNG FLOW)](https://github.com/dataAnalyzeProject/ddarung-flow) | 따릉이·날씨 API를 Airflow Raw → Quality → Curated로 처리해 도착 시점 대여 가능성 예측 서비스에 전달 | 5인 팀 조장 · 데이터 파이프라인 · 통합 · DevOps · LLM 입출력 검증(Journey AI) |
 
 #### 주로 쓰는 기술
 
